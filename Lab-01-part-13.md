@@ -35,6 +35,7 @@ Console.WriteLine("Maximum Value :" + int.MaxValue);
 ```
 
 ### ผลที่ได้จากโปรแกรม
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/0ae2be9a-63df-4159-89ae-c7c4ec73b192)
 
 ```text
 Data type : int
