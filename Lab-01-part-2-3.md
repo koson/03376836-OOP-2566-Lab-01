@@ -29,10 +29,11 @@ Console.Write("Hello" + Environment.NewLine);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/ae27ff96-f504-4da4-b988-cf7c08533bd0)
 
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
-
+เสดงผล  hello hello แบบเว้นบรรทัด
 
 ## 3. เมดธอด Console.WriteLine()
 
