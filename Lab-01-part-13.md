@@ -59,36 +59,57 @@ Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง `char`
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/8dc1086a-891d-4349-acb4-0c25920b254d)
+
 
 ---ผลการทดลอง `byte`
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/ed92fa36-6af7-46a8-bfc1-a3b44d943b3f)
+
 
 ---ผลการทดลอง `short`
- 
+ ![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/7c90f656-b83f-4f77-bda8-107f105eedba)
+
 
 ---ผลการทดลอง `ushort`
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/bd50a29f-7ffb-4e95-8da7-b60d29b1cac2)
 
- 
 
 ---ผลการทดลอง `uint`
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/8dfdc89b-a95a-475f-ad24-9d2dcc403e2b)
+
 
  
 
 ---ผลการทดลอง `float`
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/a2b7a48f-36ca-47bd-9180-a751f8f9378d)
+
  
 
 ---ผลการทดลอง `double`
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/79bdc1f7-4dc0-45ce-b068-06583f55370d)
+
  
 ---ผลการทดลอง `decimal`
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/5ba8a56f-8f3f-4407-8f26-704e22f2e76c)
+
  
 ---ผลการทดลอง `long`
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/2291d9f9-4915-4709-9ab8-b54df764ddf0)
+
 
 
 ---ผลการทดลอง `ulong`
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/33161fd0-b476-4292-a47d-a112ef143af7)
+
 
 
 ---ผลการทดลอง `bool`
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/7b7e6eef-52d9-48f8-9266-7dae0012a7a4)
+
 
 ---ผลการทดลอง `sbyte`
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/9ba09ce2-7ed1-4c8c-9348-aa88d3c37af1)
+
 
 
 ## การใช้งานข้อมูลชนิดต่างๆ
@@ -125,5 +146,38 @@ Console.WriteLine(randomNumber);
 ```
  
 ให้รัน 10 ครั้งแล้วบันทึกค่าที่ได้จากการรัน
+
+ครั้งที่ 1
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/734df6a1-8b0a-4da3-8d93-2197d27849bb)
+
+ครั้งที่ 2
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/455e525a-a343-408c-9915-9f8893e16e1c)
+
+ครั้งที่ 3 
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/2598a23a-9c81-4685-b334-6d7218bf2d82)
+
+ครั้งที่ 4
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/5e0aecc5-daf6-4b17-b870-bc6a1479ae41)
+
+ครั้งที่ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/4c89dbc3-47f3-4bfd-b6d2-13ae37c804ab)
+
+ครั้งที่ 6
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/f5fa1e11-3295-43a6-91fb-3f0ec46b598c)
+
+ครั้งที่ 7
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/175a6f7f-7818-44cd-98d6-2f7182a6f7ef)
+
+ครั้งที่ 8
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/566f78d2-4cbf-4f43-b2a4-35ae2141bcd9)
+
+ครั้งที่ 9
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/3664fd4c-9bea-4b9a-9752-c13e0d7214b6)
+
+ครั้งที่10
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/00b9b177-72d8-4c3b-b18f-bbc978603a99)
+
+
+
 
 ## [การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ](./Lab-01-part-14.md)
