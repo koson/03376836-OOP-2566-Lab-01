@@ -24,6 +24,8 @@ Console.WriteLine("f={0}", f);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/1d90b5a6-6a39-4337-aaee-dd7e20fc6b5f)
+
 
 
 
@@ -34,15 +36,143 @@ Console.WriteLine("f={0}", f);
 👉 ให้เขียนโปรแกรมเพื่อหาผลลัพธ์ของสมการต่อไปนี้
 
 1. `a+b`
-2. `x-b`
-3. `x*b`
-4. `y/a`
-5. `b%y`
-6. `y+10%x`
-7. `a/3*5`
-8. `9/2*a`
-9. `y%8`
-10. `100*x+y%2-a`
+
+ using System;
+
+class MainClass
+{
+    public static void Main(string[] args)
+    {
+        int a = 10, b = 20, x = 5, y = 2;
+
+        Console.WriteLine("1. a + b = " + (a + b));
+    }
+}
+
+
+3. `x-b`
+using System;
+
+class MainClass
+{
+    public static void Main(string[] args)
+    {
+        int a = 10, b = 20, x = 5, y = 2;
+
+         Console.WriteLine("2. x - b = " + (x - b));
+    }
+}
+
+
+4. `x*b`
+using System;
+
+class MainClass
+{
+    public static void Main(string[] args)
+    {
+        int a = 10, b = 20, x = 5, y = 2;
+           
+        Console.WriteLine("3. x * b = " + (x * b));
+    }
+}
+
+
+5. `y/a`
+using System;
+
+class MainClass
+{
+    public static void Main(string[] args)
+    {
+        int a = 10, b = 20, x = 5, y = 2;
+           
+           Console.WriteLine("4. y / a = " + ((double)y / a));
+    }
+}
+
+
+6. `b%y`
+using System;
+
+class MainClass
+{
+    public static void Main(string[] args)
+    {
+        int a = 10, b = 20, x = 5, y = 2;
+       
+        Console.WriteLine("5. b % y = " + (b % y));
+    }
+}
+
+
+7. `y+10%x`
+using System;
+
+class MainClass
+{
+    public static void Main(string[] args)
+    {
+        int a = 10, b = 20, x = 5, y = 2;
+       
+        Console.WriteLine("6. y + 10 % x = " + (y + 10 % x));
+    }
+}
+
+
+8. `a/3*5`
+using System;
+
+class MainClass
+{
+    public static void Main(string[] args)
+    {
+        int a = 10, b = 20, x = 5, y = 2;
+       
+       Console.WriteLine("7. a / 3 * 5 = " + (a / 3 * 5));
+    }
+}
+
+
+9. `9/2*a`
+using System;
+
+class MainClass
+{
+    public static void Main(string[] args)
+    {
+        int a = 10, b = 20, x = 5, y = 2;
+        Console.WriteLine("8. 9 / 2 * a = " + (9 / 2 * a));
+    }
+}
+
+
+10. `y%8`
+using System;
+
+class MainClass
+{
+    public static void Main(string[] args)
+    {
+        int a = 10, b = 20, x = 5, y = 2;
+        
+        Console.WriteLine("9. y % 8 = " + (y % 8));
+    }
+}
+
+
+11. `100*x+y%2-a`
+
+Code
+using System;
+
+class MainClass {
+    public static void Main (string[] args) {
+        int a = 10, b = 20, x = 5, y = 2;
+        Console.WriteLine("10. 100 * x + y % 2 - a = " + (100 * x + y % 2 - a));
+    }
+}
+
 
 ## ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 
@@ -72,6 +202,8 @@ Console.WriteLine("SunToEarthTimeOfLight = {0} minutes", SunToEarthTimeOfLight/6
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/2d90e586-81f8-4f10-9f23-b1c1a44c6a84)
+
 
 
 
@@ -114,5 +246,6 @@ string spaces(double val)
 หมายเหตุ ในการเขียนโปรแกรมภาษา C# .NET6.0 ที่ใช้ template แบบใหม่ เราก็ยังคงสามารถสร้าง function ใช้งานได้ตามปกติ (แต่จะไม่ครอบคลุม feature ทั้งหมดใน OOP )
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/93f4df16-736d-4df1-ad33-97e50e2084fe)
 
   
