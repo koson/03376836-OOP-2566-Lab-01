@@ -37,141 +37,46 @@ Console.WriteLine("f={0}", f);
 
 1. `a+b`
 
- using System;
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/21603973-a4d9-4050-9802-77a0d29809be)
 
-class MainClass
-{
-    public static void Main(string[] args)
-    {
-        int a = 10, b = 20, x = 5, y = 2;
-
-        Console.WriteLine("1. a + b = " + (a + b));
-    }
-}
 
 
 3. `x-b`
-using System;
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/bde5939a-d314-4534-9392-894841318813)
 
-class MainClass
-{
-    public static void Main(string[] args)
-    {
-        int a = 10, b = 20, x = 5, y = 2;
-
-         Console.WriteLine("2. x - b = " + (x - b));
-    }
-}
 
 
 4. `x*b`
-using System;
-
-class MainClass
-{
-    public static void Main(string[] args)
-    {
-        int a = 10, b = 20, x = 5, y = 2;
-           
-        Console.WriteLine("3. x * b = " + (x * b));
-    }
-}
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/2ee51ede-beec-4eb7-9e8f-7b258656e575)
 
 
 5. `y/a`
-using System;
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/6c43cb3a-b3e5-45ee-9382-b5a1fddadd2e)
 
-class MainClass
-{
-    public static void Main(string[] args)
-    {
-        int a = 10, b = 20, x = 5, y = 2;
-           
-           Console.WriteLine("4. y / a = " + ((double)y / a));
-    }
-}
 
 
 6. `b%y`
-using System;
-
-class MainClass
-{
-    public static void Main(string[] args)
-    {
-        int a = 10, b = 20, x = 5, y = 2;
-       
-        Console.WriteLine("5. b % y = " + (b % y));
-    }
-}
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/76e7c73d-2040-4f86-9fb2-c2fe695204ce)
 
 
 7. `y+10%x`
-using System;
-
-class MainClass
-{
-    public static void Main(string[] args)
-    {
-        int a = 10, b = 20, x = 5, y = 2;
-       
-        Console.WriteLine("6. y + 10 % x = " + (y + 10 % x));
-    }
-}
-
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/c7e3cf67-4e24-4959-908a-4dfe20c1c39a)
 
 8. `a/3*5`
-using System;
-
-class MainClass
-{
-    public static void Main(string[] args)
-    {
-        int a = 10, b = 20, x = 5, y = 2;
-       
-       Console.WriteLine("7. a / 3 * 5 = " + (a / 3 * 5));
-    }
-}
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/f08d4a4b-de5a-4cf1-8170-a10b2125204c)
 
 
 9. `9/2*a`
-using System;
-
-class MainClass
-{
-    public static void Main(string[] args)
-    {
-        int a = 10, b = 20, x = 5, y = 2;
-        Console.WriteLine("8. 9 / 2 * a = " + (9 / 2 * a));
-    }
-}
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/165bd541-431d-4ae3-9cbe-1d8b2e28c9c4)
 
 
 10. `y%8`
-using System;
-
-class MainClass
-{
-    public static void Main(string[] args)
-    {
-        int a = 10, b = 20, x = 5, y = 2;
-        
-        Console.WriteLine("9. y % 8 = " + (y % 8));
-    }
-}
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/1e78af31-297d-4852-9f81-8b49f877fdc8)
 
 
 11. `100*x+y%2-a`
 
-Code
-using System;
-
-class MainClass {
-    public static void Main (string[] args) {
-        int a = 10, b = 20, x = 5, y = 2;
-        Console.WriteLine("10. 100 * x + y % 2 - a = " + (100 * x + y % 2 - a));
-    }
-}
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-01/assets/144195708/faefc659-9870-4cbd-961f-ae74667b850b)
 
 
 ## ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
